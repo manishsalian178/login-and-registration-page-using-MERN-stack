@@ -62,7 +62,7 @@ function Signup() {
                                                     type="password"
                                                     id="typePasswordX"
                                                     className="form-control form-control-lg"
-                                                    placeholder='ENTER THE NAME'
+                                                    placeholder='ENTER THE PASSWORD'
                                                     value={password}
                                                     onChange={(e) => setPassword(e.target.value)}
                                                     required
